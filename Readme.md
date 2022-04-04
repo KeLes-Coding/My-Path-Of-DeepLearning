@@ -18,9 +18,9 @@
     - [x] PyTorch：张量
     - [x] PyTorch：张量和Autograd
     - [x] PyTorch：定义新的Autograd函数
-    - [ ] PyTorch：nn
-    - [ ] PyTorch：optim
-    - [ ] PyTorch：自定义nn模块
-    - [ ] 控制流 + 权重共享
+    - [x] PyTorch：nn
+    - [x] PyTorch：optim
+    - [x] PyTorch：自定义nn模块
+    - [x] 控制流 + 权重共享
   - [ ] torch.nn到底是什么
   - [ ] 使用TensorBoard可视化
