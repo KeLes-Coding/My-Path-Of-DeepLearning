@@ -23,4 +23,4 @@
     - [x] PyTorch：自定义nn模块
     - [x] 控制流 + 权重共享
   - [ ] torch.nn到底是什么
-  - [ ] 使用TensorBoard可视化
+  - [x] 使用TensorBoard可视化 >> [4.使用TensorBoard可视化](4/使用%20TensorBoard%20可视化模型，数据和训练.ipynb)
